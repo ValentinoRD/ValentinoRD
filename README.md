@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ValentinoRD
-- 🌱 I’m currently learning coderhouse programming
+- 👋 Hi, I’m @Valentino Rodriguez Desumvila
+- 🧑‍🎓I am currently learning programming at coderhouse, full stack web development.
 - 📫 How to reach me by instagram valenrodriguez.des
 
 <!---
